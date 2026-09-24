@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+numpy
+sqlalchemy
+statsmodels
+openpyxl
